@@ -1,0 +1,16 @@
+﻿# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Temporary files
+*.log
+.DS_Store
